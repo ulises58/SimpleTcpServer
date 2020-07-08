@@ -1,7 +1,7 @@
 {
     "name": "ulises58/simple-tcp-server",
     "description": "A simple tcp server written in PHP",
-    "type": "project",
+    "type": "library",
     "require": {
         "psr/log": "^1.0",
         "evenement/evenement": "^3.0",
