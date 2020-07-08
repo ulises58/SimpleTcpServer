@@ -16,6 +16,12 @@
             "email": "ishaobinliang@gmail.com"
         }
     ],
+    "config": {
+        "preferred-install": {
+            "*": "dist"
+        },
+        "optimize-autoloader": true
+    },
     "autoload": {
         "psr-4": {"Hbliang\\SimpleTcpServer\\": "src/"}
     }
