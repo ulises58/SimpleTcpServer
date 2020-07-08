@@ -1,5 +1,5 @@
 {
-    "name": "hbliang/simple-tcp-server",
+    "name": "ulises58/simple-tcp-server",
     "description": "A simple tcp server written in PHP",
     "type": "project",
     "require": {
